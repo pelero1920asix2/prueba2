@@ -1,0 +1,3 @@
+Programa: holamon.sh
+permisos: chmod +x holamon.sh
+execució: ./holamon.sh
